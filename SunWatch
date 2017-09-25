@@ -1,3 +1,4 @@
+//The heights of n consecutive buildings (number of floors) are given. We have to find how many buildings watch the sunrise.
 import java.util.Scanner;
 public class SunWatch {
     void whowatches(int arr[],int n)
